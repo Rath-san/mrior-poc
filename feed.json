@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mrior",
+    "description": "",
+    "home_page_url": "https://rath-san.github.io/mrior-poc",
+    "feed_url": "https://rath-san.github.io/mrior-poc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rafał Kozłowski"
+    },
+    "items": [
+        {
+            "id": "https://rath-san.github.io/mrior-poc/test-4.html",
+            "url": "https://rath-san.github.io/mrior-poc/test-4.html",
+            "title": "test 4",
+            "content_html": "Test image caption",
+            "image": "https://rath-san.github.io/mrior-poc/media/posts/4/jonny-caspari-483355-unsplash.jpg",
+            "author": {
+                "name": "Rafał Kozłowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-04T20:55:51+01:00",
+            "date_modified": "2019-02-04T20:55:51+01:00"
+        },
+        {
+            "id": "https://rath-san.github.io/mrior-poc/test-post-3.html",
+            "url": "https://rath-san.github.io/mrior-poc/test-post-3.html",
+            "title": "test post 3",
+            "content_html": "Test image caption",
+            "image": "https://rath-san.github.io/mrior-poc/media/posts/3/jen-p-541467-unsplash.jpg",
+            "author": {
+                "name": "Rafał Kozłowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-04T20:54:47+01:00",
+            "date_modified": "2019-02-04T20:54:47+01:00"
+        },
+        {
+            "id": "https://rath-san.github.io/mrior-poc/test-post-2.html",
+            "url": "https://rath-san.github.io/mrior-poc/test-post-2.html",
+            "title": "Test post 2",
+            "content_html": "Test image caption",
+            "image": "https://rath-san.github.io/mrior-poc/media/posts/2/christopher-burns-435998-unsplash.jpg",
+            "author": {
+                "name": "Rafał Kozłowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-04T20:53:55+01:00",
+            "date_modified": "2019-02-04T20:53:55+01:00"
+        },
+        {
+            "id": "https://rath-san.github.io/mrior-poc/first-post.html",
+            "url": "https://rath-san.github.io/mrior-poc/first-post.html",
+            "title": "First post",
+            "content_html": "<p>Aliquam erat volutpat. Ut ultricies, leo et mattis pretium, risus leo vehicula quam, eget consequat eros justo varius ante. Nullam turpis augue, venenatis sed ante ultricies, congue dictum turpis. Proin tincidunt velit nec est placerat venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas placerat tincidunt felis, ut interdum tellus auctor pulvinar. Nullam tortor neque, laoreet porta erat eget, tempus accumsan mi. In convallis congue mauris, non auctor purus dignissim et. Suspendisse feugiat imperdiet tempus. Proin lobortis mattis justo eu pulvinar.</p>\n<p><strong>Aliquam</strong> <em>erat</em> <span style=\"text-decoration: underline;\">volutpat</span>. <span style=\"text-decoration: line-through;\">Ut</span> <a href=\"#INTERNAL_LINK#/frontpage/1\">ultricies</a>, leo et mattis pretium, risus leo vehicula quam, eget consequat eros justo varius ante. Nullam turpis augue, venenatis sed ante ultricies, congue dictum turpis. Proin tincidunt velit nec est placerat venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas placerat tincidunt felis, ut interdum tellus auctor pulvinar. Nullam tortor neque, laoreet porta erat eget, tempus accumsan mi. In convallis congue mauris, non auctor purus dignissim et. Suspendisse feugiat imperdiet tempus. Proin lobortis mattis justo eu pulvinar.</p>\n<h2 id=\"mcetoc_1d2t0qm471\">header 2</h2>\n<h3 id=\"mcetoc_1d2t0rbjg2\">header 3</h3>\n<h4 id=\"mcetoc_1d2t0rg0u3\">header 4</h4>\n<p><code>code</code></p>\n<pre><code>pre</code></pre>\n<blockquote>\n<h2 id=\"mcetoc_1d2t0s4lf4\">blockquote</h2>\n</blockquote>\n<hr>\n<p> </p>\n<address>ererere</address>\n<p> </p>\n<p> </p>",
+            "image": "https://rath-san.github.io/mrior-poc/media/posts/1/armin-djuhic-609206-unsplash.jpg",
+            "author": {
+                "name": "Rafał Kozłowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-04T20:52:12+01:00",
+            "date_modified": "2019-02-04T20:52:12+01:00"
+        }
+    ]
+}
